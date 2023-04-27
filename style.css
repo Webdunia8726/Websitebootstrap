@@ -1,0 +1,13 @@
+li{
+    text-decoration: none;
+   display: flex;
+    margin-left: 30px;
+    float:left;
+    font-size: larger;
+
+
+}
+li a{color: white;}
+li:hover{
+    background-color: violet;
+}
